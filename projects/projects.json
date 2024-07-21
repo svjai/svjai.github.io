@@ -1,0 +1,132 @@
+[
+  {
+    "name": "PATENT",
+    "desc": "HAND LAUNCHABLE COPTER SYSTEM FOR SURVEILLANCE",
+    "image": "images",
+    "category": "publ",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ZgFYNV0Ir6vzStD7PH0lra8Lt0PeCZLI/view",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Hand Launchable Copter for Surveillance",
+    "desc": "A compact UAV for scouting and getting complete 360-degree surveillance within up to a 1.5 km radius.",
+    "image": "heli",
+    "category": "embd",
+    "links": {
+      "view": "https://www.protosem.tech/#news",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Facial Recognition Attendance System (Edge Device)",
+    "desc": "A cost-effective DL-FR based attendance system which runs on a lightweight edge computing device called an Image Analytic Device (IAD).",
+    "image": "fras",
+    "category": "aiml",
+    "links": {
+      "view": "https://indiaai.gov.in/videos/tnega-ai-based-facial-recognition-system-to-automate-attendance-in-tn-schools",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Autonomous Cervical Cancer Detection - Digital",
+    "desc": "Utilizes advanced AI algorithms to analyze scanned Cervical Pap smear slide images and classify cellular anomalies.",
+    "image": "kdisc",
+    "category": "aiml",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=Z4saK_yHaf8",
+      "code": "https://kdisc.kerala.gov.in/wp-content/uploads/2023/10/Automated_Cervical_Cancer_Screening.pdf"
+    }
+  },
+  {
+    "name": "JobsPyMatcher",
+    "desc": "Classification based ML model with Text wrangling and similarity score on their resumes and target job description.",
+    "image": "job",
+    "category": "aiml",
+    "links": {
+      "view": "https://youtu.be/Wwr_WjQ22lc/",
+      "code": "https://github.com/NILodio/JobsPyMacher"
+    }
+  },
+  {
+    "name": "Toxic Audio Detection ",
+    "desc": "application to detect sections of inappropriate usage of words within audio files.Detect/track individuals exhibiting abusive verbal behavior.",
+    "image": "sound",
+    "category": "aiml",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/NILodio/toxic-audio-detection"
+    }
+  },
+  {
+    "name": "Static Test Pad for High-Powered Rockets Developed ",
+    "desc": "a static test pad for high-powered rockets to evaluate engine performance and safety. Test pad ensuring safety and accuracy in data collection.",
+    "image": "emb1",
+    "category": "embd",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "High-Altitude Balloon-Launched CubeSat",
+    "desc": " a 1U CubeSat using a helium weather balloon, achieving a height of 122,000 feet and capturing experimental data and Earth curvature images.",
+    "image": "emb2",
+    "category": "embd",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Standard manager",
+    "desc": " .",
+    "image": "",
+    "category": "on",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "ML based suspicious transaction detection",
+    "desc": ".",
+    "image": "",
+    "category": "on",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "International Journal of Advances in Medicine",
+    "desc": "Clinical validation of artificial intelligence-based cataract screening solution with smartphone images.",
+    "image": "re",
+    "category": "publ",
+    "links": {
+      "view": "https://www.ijmedicine.com/index.php/ijam/article/view/3967",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Impostor Syndrome Comparison Map",
+    "desc": "This project is part of The Inter-University Big Data Challenge (IUBDC'24) -comprehensive evaluation and visualization metric tool to measure Impostor Syndrome.",
+    "image": "stem",
+    "category": "other",
+    "links": {
+      "view": "https://youtu.be/bDMOcnVny-4",
+      "code": "https://github.com/ErnieSumoso/impostor-syndrome-comparison-map"
+    }
+  },
+  {
+    "name": "Book Recommendation System",
+    "desc": "This system provides users with recommendations for books and incorporates data loading, a recommendation engineq.",
+    "image": "6",
+    "category": "aiml",
+    "links": {
+      "view": "",
+      "code": "https://github.com/svjai/AML_2203_project/tree/main"
+    }
+  }
+]
